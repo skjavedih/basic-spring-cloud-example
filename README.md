@@ -1,4 +1,4 @@
-# basic-spring-cloud-example
+# Basic example of Spring Cloud
 
 start - This directory contains basic Boot apps that are modified to use Spring Cloud
 config - This is configuration from Eureka, Config Server, and Zipkin used by the Spring Cloud CLI
